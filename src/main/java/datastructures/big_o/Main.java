@@ -21,7 +21,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        //printItems(10);
+        //O(n)
+        printItems(10);
+
+        // O(nˆ2) | n * n = nˆ2
         printAnotherItems(10);
     }
 
