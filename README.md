@@ -1,6 +1,6 @@
 # data-structures-and-algorithms
 
-## Data Structures 
+## Data Structures
 - Linked Lists;
 - Doubly linked lists;
 - Stacks & Queues;
@@ -15,8 +15,11 @@
 - Merge sort;
 - Quick sort
 
-## Tree Traversal 
-- Breadth First Search; 
+## Tree Traversal
+- Breadth First Search;
 - Depth first search - Pre order;
 - Depth first search - Post order;
 - Depth first search - In order
+
+## Reference
+- [Big-O: Cheat Sheet](https://www.bigocheatsheet.com/)
